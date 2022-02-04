@@ -4,4 +4,4 @@
 
 #### Live Demo:
 
-you can see it from [here](https://alaasaadeddin.github.io/Leon-Agency-Template/)
+you can see it from [here](https://leon-agency-template.netlify.app/)
