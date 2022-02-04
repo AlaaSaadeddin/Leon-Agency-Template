@@ -138,7 +138,7 @@ body {
 }
 
 .landing {
-  background-image: url(/images/landing.jpg);
+  background-image: url(../images/landing.jpg);
   background-size: cover;
   height: calc(100vh - 64px); /* 100vh - navbar height */
   position: relative; /* to make the text in the center of this parent , but if we want it in the screen center we don't add position : relative */
